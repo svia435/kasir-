@@ -12,13 +12,14 @@ import {
   updateDoc
 } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js";
 
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDFYmmVvk-jLZIeAdYKiTwVw2jqd4VINFA",
-  authDomain: "insan-cemerlang.firebaseapp.com",
-  projectId: "insan-cemerlang",
-  storageBucket: "insan-cemerlang.appspot.com",
-  messagingSenderId: "579109661574",
-  appId: "1:579109661574:web:4a7cd4060f70eded945a07"
+  apiKey: "AIzaSyCRlnLBhUHGOF7Lfg9iy_SbfK6coM_7f1U",
+  authDomain: "insan-cemerlang-6640c.firebaseapp.com",
+  projectId: "insan-cemerlang-6640c",
+  storageBucket: "insan-cemerlang-6640c.appspot.com",
+  messagingSenderId: "917464283158",
+  appId: "1:917464283158:web:3a6179cd71818d68f6dd37"
 };
 
 // Inisialisasi Firebase
